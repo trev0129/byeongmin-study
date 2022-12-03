@@ -1,4 +1,4 @@
-package com.eomcs.quiz.ex02.sol;
+package com.min.quiz.ex02.sol;
 
 // 출처: codefights.com
 //

@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Exam1330 {
+public class Exam01330 {
   public static void main(String[] args) throws IOException {
     //    Scanner in = new Scanner(System.in);
     //    int a = in.nextInt();

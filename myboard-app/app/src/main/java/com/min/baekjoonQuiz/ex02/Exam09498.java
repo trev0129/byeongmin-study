@@ -2,7 +2,7 @@ package com.min.baekjoonQuiz.ex02;
 
 import java.util.Scanner;
 
-public class Exam9498 {
+public class Exam09498 {
   public static void main(String[] args) {
     int grade = (new Scanner(System.in)).nextInt();
     if (grade>=90) {

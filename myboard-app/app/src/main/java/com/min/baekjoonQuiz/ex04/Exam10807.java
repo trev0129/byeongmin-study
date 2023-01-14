@@ -20,7 +20,6 @@ public class Exam10807 {
       } 
     }
     System.out.println(count);
-
     in.close();
   }
 }
